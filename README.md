@@ -217,7 +217,7 @@ Monastir, supervised by the head of its commercial subdivision. Fayed led the im
 runtime reliability; Mohamed led data modelling, KPI definitions, objective rules and dashboard
 design.
 
-Built with the help of an AI coding assistant (Claude, by Anthropic). The private repository's
+The private repository's
 history records every change and its rationale.
 
 ---
